@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time_dis">
+        <item>按时间顺序</item>
+        <item>按距离远近</item>
+    </string-array>
+</resources>
